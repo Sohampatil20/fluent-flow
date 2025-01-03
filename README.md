@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soham Amol Patil</h1>
-<h3 align="center">This project focuses on making an interactive and advanced language learning website.</h3>
+<h3 align="center">This project focuses on making an interactive and advanced language learning website. (npm install next react react-dom)-first do this then npm run dev</h3>
 
 - 🌱 I’m currently learning **full stack development**
 
